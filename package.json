@@ -1,0 +1,23 @@
+{
+  "name": "koodoo_assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujaykakkad/koodoo_assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujaykakkad/koodoo_assessment/issues"
+  },
+  "homepage": "https://github.com/sujaykakkad/koodoo_assessment#readme",
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  }
+}
